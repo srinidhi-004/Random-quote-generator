@@ -19,8 +19,8 @@ A Random Quote Generator built with HTML, CSS, and JavaScript.  This simple yet 
 - Styles.css: Provides styles for the webpage.
 - Script.js: Implements the random quote generation logic.
 
-
-
+## SCREENSHOT
+![Quote Generator - Google Chrome 02-03-2024 22_25_45](https://github.com/srinidhi-004/Random-quote-generator/assets/117285679/2797da25-7373-48ce-b08a-4842b532c093)
 
 
 ## DEMO
