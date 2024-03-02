@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--META information-->
+    <meta charset="UTF-8">
+    <meta name="author" content="Phishers">
+    <meta name="description" content="Random Quote Generator">
+    <meta name="keywords" content="HTML,CSS,JavaScript, Quotes, API">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" />
+     <!--End of META information-->
+    <title>Quote Generator</title>
+
+     <!--LINK CUSTOM CSS FILE-->
+     <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <div class="container">
+
+        <video autoplay loop muted plays-inline class="back-video" >
+            <source src="images/video.mp4" type="video/mp4">
+        </video>
+        <h1>
+          <span class="quote" id="quote"></span>
+       
+        </h1>
+        <p class="author" id="author"></p>
+        
+      
+        
+        <div class="buttons">
+            <div class="features">
+                <ul>
+                    <li class="sound"><i class="fas fa-volume-up"></i></li>
+                    <li class="copy"><i class="fas fa-copy"></i></li>
+                    <li class="share"><i class="fas fa-share-nodes"></i></li>
+                </ul>
+            
+                <!--add an onclick event on 'next quote' button-->
+            <button class="next" onclick="getNewQuote()">Next quote</button>
+        </div>
+
+    
+    </div>
+    
+      <!--LINK CUSTOM JS FILE-->
+      <script src="script.js"></script>
+    
+</body>
+</html>
+   
+        
+       
+
+
+      
