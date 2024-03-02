@@ -3,7 +3,7 @@
 
 A Random Quote Generator built with HTML, CSS, and JavaScript.  This simple yet effective combination of HTML, CSS, and JavaScript creates an engaging user experience by presenting different quotes encouraging  inspiration, motivation, or reflection with each click.
 
-## Technology Used
+## TECHNOLOGY USED
 	HTML  
 	CSS 
 	JavaScript 
@@ -21,7 +21,10 @@ A Random Quote Generator built with HTML, CSS, and JavaScript.  This simple yet 
 
 
 
-## Demo
+
+
+## DEMO
 
 http://127.0.0.1:52800/index.html
+
 
