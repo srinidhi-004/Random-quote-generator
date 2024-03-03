@@ -25,6 +25,6 @@ A Random Quote Generator built with HTML, CSS, and JavaScript.  This simple yet 
 
 ## DEMO
 
-http://127.0.0.1:52800/index.html
+https://srinidhi-004.github.io/Random-quote-generator/
 
 
